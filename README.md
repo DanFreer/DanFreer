@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Visualization and Analysis Projects
 - 
 - Previous Work on Google Sheets
-- World of Warcraft Mage project - Initially created by Ginner, I helped to maintain and update.
+- World of Warcraft Mage project - Initially created by Ginner, I helped to maintain and updated with information from Ronkuby, his sheet is linked in credits
 -  https://docs.google.com/spreadsheets/d/1ww94bZckWEOXkNCSW4ljEp6furrvosvNauT52aVD5z8/edit?usp=sharing 
 - The Burning Crusade Classic AoE and Haste Sheet
 -  https://docs.google.com/spreadsheets/d/1Z_OeFjimI3huMzDokCaba_Gg5mMlqY0T6UsqBp1zXA8/edit?usp=sharing-  
